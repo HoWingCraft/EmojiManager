@@ -1,0 +1,50 @@
+{
+  "animations_enabled": true,
+  "anim": {
+    "splash": false,
+    "particles": true,
+    "scanline": false,
+    "selection_pulse": true,
+    "panel_entrance": true
+  },
+  "palette": {
+    "black": "#000000",
+    "bg": "#0E0E0E",
+    "bg_deep": "#151515",
+    "bg_panel": "#1C1C1C",
+    "bg_input": "#222222",
+    "bg_card": "#292929",
+    "border": "#383838",
+    "border_soft": "#4D4D4D",
+    "text_faint": "#737373",
+    "text_dim": "#9A9A9A",
+    "text": "#BFBFBF",
+    "text_hi": "#DCDCDC",
+    "favorite": "#ebb035",
+    "accent": "#EEEEEE",
+    "danger": "#942306",
+    "white": "#FFFFFF"
+  },
+  "features": {
+    "nested_groups": true,
+    "preload": true,
+    "encrypted_export": false,
+    "similar_search": true,
+    "collapse_persist": true
+  },
+  "dedup_enabled": true,
+  "dedup_similarity": 100,
+  "similarity_threshold": 62,
+  "recent_searches": [
+    "bushi",
+    "test",
+    "awa",
+    "LMY",
+    "111"
+  ],
+  "collapsed_groups": [
+    "362549c53759",
+    "a2af33b60f11",
+    "f3281a765472"
+  ]
+}
